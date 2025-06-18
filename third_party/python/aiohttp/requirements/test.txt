@@ -74,7 +74,7 @@ pluggy==1.5.0
     # via pytest
 proxy-py==2.4.4
     # via -r requirements/test.in
-pycares==4.3.0
+pycares==4.9.0
     # via aiodns
 pycparser==2.21
     # via cffi

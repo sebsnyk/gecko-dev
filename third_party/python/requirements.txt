@@ -122,7 +122,7 @@ blessed==1.19.1 \
 build==1.2.2.post1 \
     --hash=sha256:b36993e92ca9375a219c99e606a122ff365a760a2d4bba0caa09bd5278b608b7 \
     --hash=sha256:1d61c0887fa860c01971625baae8bdd338e517b836a2f70dd1f7aa3a6b2fc5b5
-cbor2==4.0.1 \
+cbor2==5.8.0 \
     --hash=sha256:cee0d01e520563b5a73c72eace5c428bb68aefb1b3f7aee5d692d3af6a1e5172 \
     --hash=sha256:b0eb916c9ea226aa81e9091607737475d5b0e5c314fe8d5a87179fba449cd190
 certifi==2022.12.7 \

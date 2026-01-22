@@ -291,7 +291,7 @@ wait-for-it==2.2.2
     # via -r requirements/test.in
 webcolors==1.11.1
     # via blockdiag
-wheel==0.37.0
+wheel==0.46.2
     # via pip-tools
 yarl==1.13.0
     # via -r requirements/runtime-deps.in

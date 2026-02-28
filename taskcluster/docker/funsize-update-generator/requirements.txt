@@ -124,7 +124,7 @@ attrs==22.2.0 \
     # via
     #   aiohttp
     #   jsonschema
-awscli==1.27.46 \
+awscli==1.44.37 \
     --hash=sha256:276cef3cc89e6c1888eb327d4a2d7702105a49271b1e3e93472bcd9f02beb24c \
     --hash=sha256:a9b64b091db2edd13a611b4c4ec47fc2e7c67b3efe5ea840466f2138a9634c7b
     # via -r requirements.in

@@ -163,7 +163,7 @@ pyenchant==3.2.2
     # via sphinxcontrib-spelling
 pygments==2.15.1
     # via sphinx
-pyjwt==2.3.0
+pyjwt==2.12.0
     # via
     #   gidgethub
     #   pyjwt

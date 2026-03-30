@@ -161,7 +161,7 @@ pydantic-core==2.23.4
     # via pydantic
 pyenchant==3.2.2
     # via sphinxcontrib-spelling
-pygments==2.15.1
+pygments==2.20.0
     # via sphinx
 pyjwt==2.3.0
     # via

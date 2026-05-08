@@ -390,7 +390,7 @@ jsonschema==4.17.3 \
 looseversion==1.0.1 \
     --hash=sha256:b339dfde67680e9c5c2e96673e52bee9f94d2f0e1b8f4cbfd86d32311e86b952 \
     --hash=sha256:a205beabd0ffd40488edb9ccb3a39134510fc7c0c2847a25079f559e59c004ac
-mako==1.1.2 \
+mako==1.3.12 \
     --hash=sha256:3139c5d64aa5d175dbafb95027057128b5fbd05a40c53999f3905ceb53366d9d \
     --hash=sha256:8e8b53c71c7e59f3de716b6832c4e401d903af574f6962edbbbf6ecc2a5fe6c9
 markdown-it-py==3.0.0 \

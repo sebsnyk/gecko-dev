@@ -27,7 +27,7 @@ click==8.1.6
     # via
     #   slotscheck
     #   typer
-cryptography==43.0.3
+cryptography==48.0.1
     # via trustme
 distlib==0.3.7
     # via virtualenv

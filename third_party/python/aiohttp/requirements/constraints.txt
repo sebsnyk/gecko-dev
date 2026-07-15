@@ -137,7 +137,7 @@ packaging==21.2
     #   gunicorn
     #   pytest
     #   sphinx
-pillow==9.5.0
+pillow==12.3.0
     # via
     #   -c requirements/broken-projects.in
     #   blockdiag

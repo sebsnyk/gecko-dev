@@ -12,7 +12,7 @@ babel==2.12.1
     # via sphinx
 blockdiag==3.0.0
     # via sphinxcontrib-blockdiag
-certifi==2023.7.22
+certifi==2026.10.19
     # via requests
 charset-normalizer==3.3.1
     # via requests
@@ -40,7 +40,7 @@ markupsafe==2.1.3
     # via jinja2
 packaging==23.1
     # via sphinx
-pillow==9.5.0
+pillow==13.0.0
     # via
     #   -c requirements/broken-projects.in
     #   blockdiag

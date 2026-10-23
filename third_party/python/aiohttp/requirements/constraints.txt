@@ -137,7 +137,7 @@ packaging==21.2
     #   gunicorn
     #   pytest
     #   sphinx
-pillow==9.5.0
+pillow==13.0.0
     # via
     #   -c requirements/broken-projects.in
     #   blockdiag
@@ -163,7 +163,7 @@ pyenchant==3.2.2
     # via sphinxcontrib-spelling
 pygments==2.15.1
     # via sphinx
-pyjwt==2.3.0
+pyjwt==2.14.0
     # via
     #   gidgethub
     #   pyjwt

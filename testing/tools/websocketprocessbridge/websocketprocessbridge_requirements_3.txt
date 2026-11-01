@@ -16,3 +16,4 @@ passlib==1.7.4
 pyOpenSSL
 cryptography
 service_identity
+pyasn1>=0.6.5 # not directly required, pinned by Snyk to avoid a vulnerability
